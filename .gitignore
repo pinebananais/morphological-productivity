@@ -1,0 +1,2 @@
+data/*.*
+!data/sample_raw_data.txt
